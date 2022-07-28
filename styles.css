@@ -1,0 +1,46 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.navbar {
+    border-radius: 5px;
+    font-family: Marker Felt, fantasy;
+}
+
+h1 {
+    font-family: Marker Felt, fantasy;
+}
+
+h2, h3 {
+    font-family: Marker Felt, fantasy;
+    color:darkslategrey;
+}
+
+p{
+    font-family: Marker Felt, fantasy;
+}
+
+h5, h4{
+    font-family: Marker Felt, fantasy;
+}
+
+.btn {
+    font-family: Marker Felt, fantasy;
+}
+
+tr, td{
+    font-family: Marker Felt, fantasy;
+    border: 5px;
+    border-color: darkgoldenrod;
+    border-width: 2px;
+    border-style: dashed;
+}
+
+.about{
+    border: 2px;
+    border-radius: 2px;
+    border-color: darkgoldenrod;
+    border-style: dashed;
+    margin: auto;
+    padding: 5px;
+}
