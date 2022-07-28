@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/cmkelling/week9-Website#readme",
   "dependencies": {
-    "bootstrap": "^4.4.1",
+    "bootstrap": "^4.6.2",
     "jquery": "^3.6.0"
   }
 }
